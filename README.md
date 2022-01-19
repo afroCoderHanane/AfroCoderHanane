@@ -15,4 +15,6 @@
 - 😄 Pronouns: He/She
 - ⚡ Fun fact: If I tell you I will think about it, just enjoy your day. LOL!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=afroCoderHanane&theme=<THEME_NAME>" />
+<a href="https://github.com/afroCoderHanane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
