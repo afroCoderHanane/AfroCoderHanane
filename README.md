@@ -14,3 +14,5 @@
 - 📫 How to reach me: gbhanane@gmail.com
 - 😄 Pronouns: He/She
 - ⚡ Fun fact: If I tell you I will think about it, just enjoy your day. LOL!
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=afroCoderHanane&theme=<THEME_NAME>" />
