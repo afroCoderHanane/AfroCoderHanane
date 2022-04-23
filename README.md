@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on any coding projects and open source
 - 💬 Ask me about my path in Computer Science
 - 📫 How to reach me: gbhanane@gmail.com
-- 😄 Pronouns: He/She
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I tell you I will think about it, just enjoy your day. LOL!
 
 <a href="https://github.com/afroCoderHanane">
