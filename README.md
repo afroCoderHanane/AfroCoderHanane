@@ -5,25 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">afroCoderHanane</a> </p>
 
-- 🔭 I’m currently working on **improving my ML skills**
+- 🔭 I’m currently working on **Gemini** Models.
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently getting my masters in CS with a focus in **Machine Learning** even though I have improved my ML skills tremendously.
 
-- 👯 I’m looking to collaborate on **any project in mobile/ML**
+- 👯 I’m looking to collaborate on **any project in AI/ML or Backend(Data)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/afroCoderHanane?tab=repositories](https://github.com/afroCoderHanane?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@gbadhanane](https://medium.com/@gbadhanane)
 
-- 💬 Ask me about **React Native,Flutter, Python, Scikit Learn**
+- 💬 Ask me about **NLP, ML, React Native,Flutter, Python, Scikit Learn**
 
 - 📫 How to reach me **gbadhanane@gmail.com**
 
-- ⚡ Fun fact **I know C++ is a very good language and can understand it, but I still can see that manifest in real life**
+- ⚡ Fun fact **I am right handed and left footed but my partner is the inverse!** What a way to complete each other.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hanane84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanane84" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gbad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanane84" height="30" width="40" /></a>
 <a href="https://instagram.com/hanane.ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanane.ig" height="30" width="40" /></a>
 </p>
 
